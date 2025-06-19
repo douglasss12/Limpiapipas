@@ -61,7 +61,7 @@
       <h2>Flor Rosa</h2>
       <p>Hecha con limpiapipas suaves y resistentes. Perfecta para regalar.</p>
       <p><strong>Precio: $2.500 CLP</strong></p>
-      <a href="https://wa.me/569XXXXXXXX" class="boton">Comprar por WhatsApp</a>
+      <a href="https://wa.me/56948948866" class="boton">Comprar por WhatsApp</a>
     </div>
 
     <div class="producto">
